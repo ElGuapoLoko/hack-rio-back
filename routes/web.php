@@ -8,11 +8,10 @@ use \App\Http\Controllers\AccountController;
 
 
 Route::get('/', function () {
-    return 'Educação de qualidade - Desafio Petrobras Back' . app()->version();
+    return 'Educação de qualidade - Desafio Petrobras Back';
 });
 
 Route::middleware('cors')->group(function () {
-
 
 //    Route::controller(UsersController::class)->prefix('users')->group(function () {
 //        Route::get('/index', 'index');
