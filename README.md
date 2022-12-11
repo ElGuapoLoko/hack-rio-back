@@ -1,4 +1,4 @@
-# <h1 align="center"> **Educai Backend** </h1>
+# <h1 align="center"> **HackingRio Backend** </h1>
 
 ## SOBRE O PROJETO:
 #### Nosso projeto tem como premissa fornecer uma base de conhecimento centralizada para a petrobrás
